@@ -20,5 +20,7 @@
 ### - Frase analisada: "Eu gostei muito do atendimento na loja hoje. Os funcionários foram atenciosos e me ajudaram com todas as minhas dúvidas. Saí de lá muito satisfeita com a experiência!".
 
 
-![Análise de Sentimento](./images/azure1.png);
-![Análise de Sentimento](./images/azure2.png);
+![Análise de Sentimento](./images/azure1.png)
+
+![Análise de Sentimento](./images/azure2.png)
+
