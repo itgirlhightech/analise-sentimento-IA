@@ -17,11 +17,12 @@
 ---
 
 
-### - Frase analisada: "Eu gostei muito do atendimento na loja hoje. Os funcionários foram atenciosos e me ajudaram com todas as minhas dúvidas. Saí de lá muito satisfeita com a experiência!".
+#### - Frase analisada: "Fiquei feliz por conseguir comprar o presente que eu queria, mas me decepcionei com a demora no atendimento. Acho que a loja pode melhorar nesse ponto."
 
 
 ![Análise de Sentimento](./images/azure1.png)
 
 ![Análise de Sentimento](./images/azure2.png)
+
 
 
