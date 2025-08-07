@@ -17,12 +17,17 @@
 ---
 
 
+
+
 #### - Frase analisada: "Fiquei feliz por conseguir comprar o presente que eu queria, mas me decepcionei com a demora no atendimento. Acho que a loja pode melhorar nesse ponto."
+
+
 
 
 ![Análise de Sentimento](./images/azure1.png)
 
 ![Análise de Sentimento](./images/azure2.png)
+
 
 
 
