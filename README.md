@@ -6,13 +6,13 @@
 
 **🇧🇷 Português:**
 
-> Projeto prático utilizando Azure Language e Speech Studio para analisar sentimentos em textos e explorar recursos de IA em linguagem natural. Inclui documentação técnica, testes realizados e exemplos aplicados.
+> Projeto prático utilizando Azure Language para analisar sentimentos em textos e explorar recursos de IA em linguagem natural. Inclui documentação técnica, testes realizados e exemplos aplicados.
 
 ---
 
 **🇺🇸 English:**
 
-> Practical project using Azure Language and Speech Studio to analyze sentiment in texts and explore AI features for natural language. Includes technical documentation, tests performed, and applied examples.
+> Practical project using Azure Language to analyze sentiment in texts and explore AI features for natural language. Includes technical documentation, tests performed, and applied examples.
 
 ---
 
@@ -23,4 +23,5 @@
 ![Análise de Sentimento](./images/azure1.png)
 
 ![Análise de Sentimento](./images/azure2.png)
+
 
